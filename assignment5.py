@@ -6,7 +6,7 @@ st.title('Store Performance Data Visualization App')
 
 # New dataset for store sales and profit information
 data = {
-    'Store Location': ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix'],
+    'City GDP': ['Manila', 'Hong Kong','Tokyo','Uganda','Vientiene'],
     'Monthly Sales (Thousands USD)': [500, 600, 450, 700, 550],
     'Monthly Profit (Thousands USD)': [200, 250, 150, 300, 220],
     'Number of Employees': [50, 60, 45, 65, 55]
